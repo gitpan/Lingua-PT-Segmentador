@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Lingua-PT-Segmentador.t
+lib/Lingua/PT/Segmentador.pm
+META.yml                                 Module meta-data (added by MakeMaker)
